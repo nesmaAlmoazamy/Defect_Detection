@@ -1,3 +1,4 @@
+#reference: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/datasets/combine_A_and_B.py
 import os
 import numpy as np
 import cv2
