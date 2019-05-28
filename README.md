@@ -53,6 +53,12 @@ CustomDatasetMask Folder:
 
 This folder contains the input dataset for the GAN Model, The images are combined using "combine_A_and_B.py" code.
 
+========================================================================
+
+PixtopixResults.html
+
+This file shows the results of the Pix2Pix Predictions 
+
 
 
 
