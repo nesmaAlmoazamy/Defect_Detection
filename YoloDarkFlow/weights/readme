@@ -1,0 +1,4 @@
+This folder must contain the weights of the Model, Which can be downloaded from:
+
+Yolo Weights: http://pjreddie.com/media/files/yolo.weights
+Tiny Yolo Weights: https://github.com/duangenquan/YoloV2NCS/raw/master/models/yolomodels/tiny-yolo-voc.weights
