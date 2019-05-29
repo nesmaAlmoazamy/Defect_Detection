@@ -51,7 +51,14 @@ which will be used as input to "Apply_Mask_to_Image.ipynb" to apply the mask dim
 
 #### Pix2Pix/CustomDatasetMask Folder:
 
-This folder contains the input dataset for the GAN Model, The images are combined using "combine_A_and_B.py" code.
+This folder contains the input dataset for the Pix2Pix Model, The images are combined using "combine_A_and_B.py" code. 
+the dataset contains each original image merged with the Masked corrosponding Image
+
+========================================================================
+
+#### Pix2Pix/customDSBlackWhite Folder:
+This folder contains the input dataset for the Pix2Pix Model, The images are combined using "combine_A_and_B.py" code. 
+the dataset contains each original image merged with the Black and white corrosponding Image
 
 ========================================================================
 
