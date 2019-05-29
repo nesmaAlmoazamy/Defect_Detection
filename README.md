@@ -58,3 +58,25 @@ This folder contains the input dataset for the GAN Model, The images are combine
 #### Pix2Pix/PixtopixResults.html
 
 This file shows the results of the Pix2Pix Predictions 
+
+========================================================================
+
+#### Yolo Darkflow Folder
+
+In this folder:
+
+1- Slurm Script to train the model
+2- Slurm Script to test the model
+3- Object Detection notebook: It contains the predictions and results of Yolo and Tiny Yolo networks.
+4- The Annotation folder contains the input labels foe each image in the dataset
+Also the images including the predicted masks to visualize the results with the requires confidence level.
+5- Weights folder for the weights to be downloaded 
+6- The Log file containing the results of the model
+7- Cfg folder, Which contains the Customized Configuration files for Tiny YOLO and YOLO. 
+They are Customized with the number of the filters of the network and the number of classes
+
+To Reproduce the results, you need to clone this repository to get the configuration files
+Link : https://github.com/thtrieu/darkflow.git
+
+========================================================================
+
