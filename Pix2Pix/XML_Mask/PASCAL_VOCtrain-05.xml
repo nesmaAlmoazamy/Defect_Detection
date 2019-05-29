@@ -1,0 +1,14 @@
+<annotation>
+  <folder>/home/nesma/OpenLabeling/main/input</folder>
+  <filename>train-05.jpg</filename>
+  <path>/home/nesma/OpenLabeling/main/input/train-05.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>501</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
